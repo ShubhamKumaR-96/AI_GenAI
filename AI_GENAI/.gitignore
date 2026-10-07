@@ -1,0 +1,12 @@
+.env
+.DS_Store
+.idea
+.vscode
+.venv
+
+
+__pyache__/
+build/
+dist/
+wheels/
+*.py[oc]
